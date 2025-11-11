@@ -2,7 +2,7 @@
   {
     "name": "AI image Detection",
     "desc": "AI Image Detection — Custom InceptionResNetV2 model achieving 96.65% accuracy on a 10k-image dataset",
-    "image": "../Assets/Images/Major Project logo.avif",
+    "image": "../assets/images/Deepfake Dectection.jpeg",
     "category": "AI/ML",
     "links": {
         "code": "https://github.com/Rahul-rathva/Major_Project"

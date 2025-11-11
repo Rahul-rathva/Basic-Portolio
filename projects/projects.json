@@ -10,8 +10,8 @@
   },
   {
     "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "sppuprepandroid",
+    "desc": "A simple yet complete backend project that taught me how to structure, validate, and scale real-world APIs.",
+    "image": "../assets/images/noteapp.jpeg",
     "category": "android",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",

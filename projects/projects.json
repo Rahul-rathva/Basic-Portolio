@@ -1,17 +1,17 @@
 [
   {
-    "name": "Deepfake Detection",
-    "desc": "AI Image Detection — Custom InceptionResNetV2 model achieving 96.65% accuracy on a 10k-image dataset",
-    "image": "../assets/images/deepfake_detection.jpeg",
-    "category": "AI/ML",
+  "name": "Quickcart",
+    "desc": "Basic e-commerce site built while learning HTML, CSS, and JavaScript from tutorials",
+    "image": "../assets/images/Quickart.jpg",
+    "category": "Full Stack Development",
     "links": {
-        "code": "https://github.com/Rahul-rathva/Major_Project"
+      "code": "https://github.com/Rahul-rathva/Quickcart"
     }
   },
   {
-    "name": "Notes API",
-    "desc": "A simple yet complete backend project that taught me how to structure, validate, and scale real-world APIs.",
-    "image": "../assets/images/noteapp.jpeg",
+    "name": "Notes APP",
+    "desc": "RESTful Notes Management API using FastAPI, SQLite, and SQLModel — handles CRUD operations for notes.",
+    "image": "../assets/images/notesapp.jpg",
     "category": "Backend Development",
     "links": {
       "code": "https://github.com/Rahul-rathva/Note-app"
@@ -19,8 +19,8 @@
   },
   {
     "name": "Simplified Trading Bot",
-    "desc": "Built a simulated trading bot as part of an evaluation task. Focused on implementing safe, beginner-friendly trade automation using test APIs",
-    "image": "newsboxandroid",
+    "desc": "Beginner-friendly crypto trading bot using Python, Binance Test APIs, and logic-based automation.",
+    "image": "https://cdn.dribbble.com/userupload/23646063/file/original-6637d7d315b8f5a4b62c4cc79ab4234d.png",
     "category": "Backend Development",
     "links": {
       "code": "https://github.com/Rahul-rathva/Simplified_trading_Bot"
@@ -28,8 +28,8 @@
   },
   {
     "name": "Hedging Bot",
-    "desc": "Created a crypto hedging bot for a company task to simulate trade positions using real-time data APIs. Focused on algorithmic logic and automation concepts.",
-    "image": "",
+    "desc": "Automated crypto hedging simulation using Python and real-time data APIs",
+    "image": "../assets/images/hedgingbot.jpg",
     "category": "Backend Development",
     "links": {
       "code": "https://github.com/Rahul-rathva/Hedging_Bot"
@@ -37,62 +37,63 @@
   },
   {
     "name": "Personalized Medicine Bot",
-    "desc": "Developed a prototype chatbot recommending medicines based on symptoms. Implemented data-driven logic and simple NLP flow for personalized outputs",
-    "image": "instagrammern",
-    "category": "AI Development",
+    "desc": "Chatbot prototype built using Python for personalized medicine suggestions",
+    "image": "../assets/images/medicalbot.jpg",
     "links": {
       "code": "https://github.com/Rahul-rathva/Personalized_medicine_plateform-"
     }
   },
-   {
-    "name": "Portfolio Website",
-    "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
-    "image": "instagrammern",
-    "category": "Portfolio Development",
-    "links": {
-      "code": "https://github.com/Rahul-rathva/Basic-Portfolio"
-    }
-  },
   {
-  "name": "Banking System",
-    "desc": "Built a console-based banking system with features like user account creation, deposit/withdrawal, and transaction tracking to understand data handling and logic flow.",
-    "image": "instagrammern",
+    "name": "Banking System",
+    "desc": "Console-based banking app built in Python, featuring account creation, deposits, and withdrawals.",
+    "image": "../assets/images/banking system.jpg",
     "category": "Backend Development",
     "links": {
       "code": "https://github.com/Rahul-rathva/Banking-System"
     }
   },
   {
-  "name": "Student Database Management System",
-    "desc": "Created a simple CRUD-based database management system for student records using file handling and structured data storage in Python.",
-    "image": "instagrammern",
+    "name": "Deepfake Detection",
+    "desc": "Deepfake detection system using Python, TensorFlow, and Keras to identify manipulated images through CNN models.",
+    "image": "https://blog.defake.app/wp-content/uploads/2024/10/Unmasking-Deepfakes-with-AI-Detection-Tools.jpg",
+    "category": "AI Development",
+    "links": {
+        "code": "https://github.com/Rahul-rathva/Major_Project"
+    }
+  },
+  {
+    "name": "Student DBMS",
+    "desc": "CRUD-based student record manager using SQL — implemented structured database design.",
+    "image": "../assets/images/DBMS.jpg",
     "category": "Backend Development",
     "links": {
       "code": "https://github.com/Rahul-rathva/Student_DBMS"
     }
   },
   {
-  "name": "Quickcart",
-    "desc": " Tried building a basic e-commerce site following tutorials, exploring product listings, cart system, and database integration. Helped understand client-server interaction.",
-    "image": "instagrammern",
-    "category": "Full Stack Development",
-    "links": {
-      "code": "https://github.com/Rahul-rathva/Quickcart"
-    }
-  },
-  {
   "name": "Digital Console Clock",
-    "desc": "Designed a digital console clock using Python that displays real-time updates and date-time functionalities, focusing on time modules and formatting",
-    "image": "instagrammern",
+    "desc": "Console-based digital clock programmed in C++, displaying real-time updates using time functions",
+    "image": "../assets/images/digital clock.jpg",
     "category": "Software Development",
     "links": {
       "code": "https://github.com/Rahul-rathva/Digital-Clock"
     }
   },
+  
+    {
+     "name": "Portfolio Website",
+     "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
+     "image": "https://marketplace.canva.com/EAGLFkPP8JM/2/0/1600w/canva-black-and-white-minimalist-aesthetic-photography-collage-portfolio-presentation-XeVNOIbnVtM.jpg",
+     "category": "Portfolio Development",
+     "links": {
+       "code": "https://github.com/Rahul-rathva/Basic-Portfolio"
+     }
+   },
   {
+   
   "name": "Tic Tac Toe Game",
-    "desc": "Developed a terminal-based Tic Tac Toe game focusing on logic building, condition handling, and user input control for a fun, interactive experience.",
-    "image": "instagrammern",
+    "desc": "Classic Tic Tac Toe game made in C++, focusing on game logic, loops, and condition handling.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOXGEzcg4TTw25jWpRxR__6973wIi97KGYg47KVLo1rcYveBsurSaubQDNAHdmaNNxE2Qwi7-q7Fs28lPe-3kDu8Z3C7P7K4pP4ZY4ye4gc4wzXFTGP4_UHvMEnz8ubObauOkQMgAcXVwy/s1600/Tic+tac+toe.jpg",
     "category": "Software Development",
     "links": {
       "code": "https://github.com/Rahul-rathva/Tic-Tac-Toe"
@@ -100,7 +101,7 @@
   },
   {
   "name": "SakuraFood Food Delivery System",
-    "desc": " Tried building a basic e-commerce site following tutorials, exploring product listings, cart system, and database integration. Helped understand client-server interaction.  ",
+    "desc": "In-progress food delivery system using HTML, CSS, and JAVASCRIPT, focusing on order management and authentication ",
     "image": "instagrammern",
     "category": "Full Stack Development",
     "links": {

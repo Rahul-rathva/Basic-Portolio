@@ -70,6 +70,6 @@ function(){
     }
     else {
         document.title = "Come Back To Portfolio";
-        $("#favicon").attr("href","/assets/images/Hero.png");
+        $("#favicon").attr("href","/assets/images/Hero.jpg");
     }
 });

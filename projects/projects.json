@@ -14,37 +14,107 @@
     "image": "../assets/images/noteapp.jpeg",
     "category": "Backend Development",
     "links": {
-      "code": "https://github.com/jigar-sable/sppu-prep-android"
+      "code": "https://github.com/Rahul-rathva/Note-app"
     }
   },
   {
-    "name": "NewsBox Android",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "name": "Simplified Trading Bot",
+    "desc": "Built a simulated trading bot as part of an evaluation task. Focused on implementing safe, beginner-friendly trade automation using test APIs",
     "image": "newsboxandroid",
-    "category": "android",
+    "category": "Backend Development",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/newsbox-android"
+      "code": "https://github.com/Rahul-rathva/Simplified_trading_Bot"
     }
   },
   {
-    "name": "Weatherly Android",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "weatherlyandroid",
-    "category": "android",
+    "name": "Hedging Bot",
+    "desc": "Created a crypto hedging bot for a company task to simulate trade positions using real-time data APIs. Focused on algorithmic logic and automation concepts.",
+    "image": "",
+    "category": "Backend Development",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/weatherly-android"
+      "code": "https://github.com/Rahul-rathva/Hedging_Bot"
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "name": "Personalized Medicine Bot",
+    "desc": "Developed a prototype chatbot recommending medicines based on symptoms. Implemented data-driven logic and simple NLP flow for personalized outputs",
     "image": "instagrammern",
-    "category": "mern",
+    "category": "AI Development",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "code": "https://github.com/Rahul-rathva/Personalized_medicine_plateform-"
+    }
+  },
+   {
+    "name": "Portfolio Website",
+    "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
+    "image": "instagrammern",
+    "category": "Portfolio Development",
+    "links": {
+      "code": "https://github.com/Rahul-rathva/Basic-Portfolio"
+    }
+  },
+  {
+  "name": "Banking System",
+    "desc": "Built a console-based banking system with features like user account creation, deposit/withdrawal, and transaction tracking to understand data handling and logic flow.",
+    "image": "instagrammern",
+    "category": "Backend Development",
+    "links": {
+      "code": "https://github.com/Rahul-rathva/Banking-System"
+    }
+  },
+  {
+  "name": "Student Database Management System",
+    "desc": "Created a simple CRUD-based database management system for student records using file handling and structured data storage in Python.",
+    "image": "instagrammern",
+    "category": "Backend Development",
+    "links": {
+      "code": "https://github.com/Rahul-rathva/Student_DBMS"
+    }
+  },
+  {
+  "name": "Quickcart",
+    "desc": " Tried building a basic e-commerce site following tutorials, exploring product listings, cart system, and database integration. Helped understand client-server interaction.",
+    "image": "instagrammern",
+    "category": "Full Stack Development",
+    "links": {
+      "code": "https://github.com/Rahul-rathva/Quickcart"
+    }
+  },
+  {
+  "name": "Digital Console Clock",
+    "desc": "Designed a digital console clock using Python that displays real-time updates and date-time functionalities, focusing on time modules and formatting",
+    "image": "instagrammern",
+    "category": "Software Development",
+    "links": {
+      "code": "https://github.com/Rahul-rathva/Digital-Clock"
+    }
+  },
+  {
+  "name": "Tic Tac Toe Game",
+    "desc": "Developed a terminal-based Tic Tac Toe game focusing on logic building, condition handling, and user input control for a fun, interactive experience.",
+    "image": "instagrammern",
+    "category": "Software Development",
+    "links": {
+      "code": "https://github.com/Rahul-rathva/Tic-Tac-Toe"
+    }
+  },
+  {
+  "name": "SakuraFood Food Delivery System",
+    "desc": " Tried building a basic e-commerce site following tutorials, exploring product listings, cart system, and database integration. Helped understand client-server interaction.  ",
+    "image": "instagrammern",
+    "category": "Full Stack Development",
+    "links": {
+      "code": "https://github.com/Rahul-rathva/Food-Delivery"
+    }
+  },
+  {
+  "name": "Github Practical Actions",
+    "desc": "Built a console-based banking system with features like user account creation, deposit/withdrawal, and transaction tracking to understand data handling and logic flow.",
+    "image": "instagrammern",
+    "category": "Backend Development",
+    "links": {
+      "code": "https://github.com/Rahul-rathva/Github-practical-actions"
     }
   }
+
 ]

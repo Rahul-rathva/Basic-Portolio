@@ -11,7 +11,7 @@
   {
     "name": "Notes APP",
     "desc": "RESTful Notes Management API using FastAPI, SQLite, and SQLModel — handles CRUD operations for notes.",
-    "image": "../assets/images/notesapp.jpg",
+    "image": "./assets/images/notesapp.jpg",
     "category": "backenddevelopment",
     "links": {
       "code": "https://github.com/Rahul-rathva/Note-app"
@@ -29,7 +29,7 @@
   {
     "name": "Hedging Bot",
     "desc": "Automated crypto hedging simulation using Python and real-time data APIs",
-    "image": "../assets/images/hedgingbot.jpg",
+    "image": "./assets/images/hedgingbot.jpg",
     "category": "backenddevelopment",
     "links": {
       "code": "https://github.com/Rahul-rathva/Hedging_Bot"
@@ -38,7 +38,7 @@
   {
     "name": "Personalized Medicine Bot",
     "desc": "Chatbot prototype built using Python for personalized medicine suggestions",
-    "image": "../assets/images/medicalbot.jpg",
+    "image": "./assets/images/medicalbot.jpg",
     "category": "aidevelopment",
     "links": {
       "code": "https://github.com/Rahul-rathva/Personalized_medicine_plateform-"
@@ -47,7 +47,7 @@
   {
     "name": "Banking System",
     "desc": "Console-based banking app built in Python, featuring account creation, deposits, and withdrawals.",
-    "image": "../assets/images/banking system.jpg",
+    "image": "./assets/images/banking system.jpg",
     "category": "backenddevelopment",
     "links": {
       "code": "https://github.com/Rahul-rathva/Banking-System"
@@ -65,7 +65,7 @@
   {
     "name": "Student DBMS",
     "desc": "CRUD-based student record manager using SQL — implemented structured database design.",
-    "image": "../assets/images/DBMS.jpg",
+    "image": "./assets/images/DBMS.jpg",
     "category": "backenddevelopment",
     "links": {
       "code": "https://github.com/Rahul-rathva/Student_DBMS"
@@ -74,7 +74,7 @@
   {
   "name": "Digital Console Clock",
     "desc": "Console-based digital clock programmed in C++, displaying real-time updates using time functions",
-    "image": "../assets/images/digital clock.jpg",
+    "image": "./assets/images/digital clock.jpg",
     "category": "softwaredevelopment",
     "links": {
       "code": "https://github.com/Rahul-rathva/Digital-Clock"

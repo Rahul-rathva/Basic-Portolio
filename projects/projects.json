@@ -2,7 +2,7 @@
   {
   "name": "Quickcart",
     "desc": "Basic e-commerce site built while learning HTML, CSS, and JavaScript from tutorials",
-    "image": "../assets/images/Quickart.jpg",
+    "image": "./assets/images/Quickart.jpg",
     "category": "fullstackdevelopment",
     "links": {
       "code": "https://github.com/Rahul-rathva/Quickcart"

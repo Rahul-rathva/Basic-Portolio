@@ -11,7 +11,7 @@
   {
     "name": "Notes APP",
     "desc": "RESTful Notes Management API using FastAPI, SQLite, and SQLModel — handles CRUD operations for notes.",
-    "image": "/assets/images/notesapp.jpg",
+    "image": "./assets/images/notesapp.jpg",
     "category": "backenddevelopment",
     "links": {
       "code": "https://github.com/Rahul-rathva/Note-app"

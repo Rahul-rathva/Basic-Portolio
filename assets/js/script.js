@@ -60,11 +60,11 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Rahul Rathva";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            $("#favicon").attr("href", "./assets/images/favicon.png");
         }
         else {
             document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "assets/images/Hero.jpg");
+            $("#favicon").attr("href", "./assets/images/Hero.jpg");
         }
     });
 
@@ -82,9 +82,9 @@ var typed = new Typed(".typing-text", {
 async function fetchData(type = "skills") {
     let response
     type === "skills" ?
-        response = await fetch("/skills.json")
+        response = await fetch("./skills.json")
         :
-        response = await fetch("/projects/projects.json")
+        response = await fetch("./projects/projects.json")
     const data = await response.json();
     return data;
 }
